@@ -14,6 +14,13 @@ namespace ConsoleApp2
             Console.WriteLine( "Welcome To GITHUB");
             int X=10;
             Console.WriteLine(X);
+            Moamen();
+        }
+        static void Moamen()
+        { 
+        
+        int C=100;
+            Console.WriteLine(C);
         }
     }
 }
